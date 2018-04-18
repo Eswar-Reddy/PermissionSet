@@ -8,12 +8,18 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>TransObj12__c.field12__c</members>
         <members>Wellsfargo__c.Field_for_Testing__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>TransObj12__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>PermissionDemo1</members>
         <members>PermissionDemo2</members>
+        <members>PermissionDemo66</members>
         <name>PermissionSet</name>
     </types>
 </Package>

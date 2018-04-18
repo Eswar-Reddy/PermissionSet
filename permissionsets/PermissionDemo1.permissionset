@@ -9,6 +9,11 @@
         <enabled>true</enabled>
     </classAccesses>
     <description>PermissionDemo1 for test desc</description>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Wellsfargo__c.Field_for_Testing__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>true</hasActivationRequired>
     <label>PermissionDemo1</label>
     <license>Salesforce</license>
